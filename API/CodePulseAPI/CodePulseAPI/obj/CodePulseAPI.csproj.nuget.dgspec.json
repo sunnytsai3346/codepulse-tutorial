@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Home\\workplace\\Playground\\CodePulse\\API\\CodePulseAPI\\CodePulseAPI\\CodePulseAPI.csproj": {}
+    "D:\\Home\\workplace\\Playground\\codepulse-tutorial\\API\\CodePulseAPI\\CodePulseAPI\\CodePulseAPI.csproj": {}
   },
   "projects": {
-    "D:\\Home\\workplace\\Playground\\CodePulse\\API\\CodePulseAPI\\CodePulseAPI\\CodePulseAPI.csproj": {
+    "D:\\Home\\workplace\\Playground\\codepulse-tutorial\\API\\CodePulseAPI\\CodePulseAPI\\CodePulseAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Home\\workplace\\Playground\\CodePulse\\API\\CodePulseAPI\\CodePulseAPI\\CodePulseAPI.csproj",
+        "projectUniqueName": "D:\\Home\\workplace\\Playground\\codepulse-tutorial\\API\\CodePulseAPI\\CodePulseAPI\\CodePulseAPI.csproj",
         "projectName": "CodePulseAPI",
-        "projectPath": "D:\\Home\\workplace\\Playground\\CodePulse\\API\\CodePulseAPI\\CodePulseAPI\\CodePulseAPI.csproj",
+        "projectPath": "D:\\Home\\workplace\\Playground\\codepulse-tutorial\\API\\CodePulseAPI\\CodePulseAPI\\CodePulseAPI.csproj",
         "packagesPath": "C:\\Users\\plsun\\.nuget\\packages\\",
-        "outputPath": "D:\\Home\\workplace\\Playground\\CodePulse\\API\\CodePulseAPI\\CodePulseAPI\\obj\\",
+        "outputPath": "D:\\Home\\workplace\\Playground\\codepulse-tutorial\\API\\CodePulseAPI\\CodePulseAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\plsun\\AppData\\Roaming\\NuGet\\NuGet.Config",
