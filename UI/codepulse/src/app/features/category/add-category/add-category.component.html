@@ -1,0 +1,17 @@
+<div class="container">
+    <h1>Add Category</h1>
+    <hr/>
+    <form #form="ngForm" (ngSubmit)="onFormSubmit()">
+        <div class="mb-3">
+          <label for="name" class="form-label">Category Name</label>
+          <input type="text" class="form-control" id="name" name="name" [(ngModel)]="model.name">      
+        </div>
+        <div class="mb-3">
+          <label for="urlHandle" class="form-label">Category Url Handle</label>
+          <input type="text" class="form-control" id="urlHandle" name="urlHandle" [(ngModel)]="model.urlHandle">
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+
+</div>
