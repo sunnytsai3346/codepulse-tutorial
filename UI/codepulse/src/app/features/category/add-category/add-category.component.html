@@ -1,7 +1,9 @@
 <div class="container">
-    <h1>Add Category</h1>
-    <hr/>
-    <form #form="ngForm" (ngSubmit)="onFormSubmit()">
+  <div class="card">
+    <div class="card-header" style="font-weight: bold;">Add Category</div>
+    <div class="card-body">
+      <div class="card-text">
+      <form #form="ngForm" (ngSubmit)="onFormSubmit()">
         <div class="mb-3">
           <label for="name" class="form-label">Category Name</label>
           <input type="text" class="form-control" id="name" name="name" [(ngModel)]="model.name">      
@@ -13,5 +15,12 @@
         
         <button type="submit" class="btn btn-primary">Submit</button>
       </form>
+    </div>
+    </div>
+  </div>
+
+    
+    
+   
 
 </div>
